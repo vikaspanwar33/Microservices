@@ -19,8 +19,6 @@ Support Services:
   - Zipkin (default port: 9411)
 ```
 
-![Architecture Diagram](./path-to-your-image/Screenshot%202025-08-25%20at%205.17.23%20PM.png)
-
 ---
 
 ## 🛠️ Technologies Used
