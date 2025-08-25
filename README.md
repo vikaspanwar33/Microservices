@@ -116,9 +116,8 @@ Support Services:
 
 ## 📈 Distributed Tracing
 
-* Enabled with **Spring Cloud Sleuth**
 * Visualized through **Zipkin**
-* Helps in tracking the request flow between microservices
+* Monitors request flow, status, and service health
 
 ---
 
