@@ -1,6 +1,4 @@
-# 🏢 Communicating between different microservices using Spring Boot, Eureka, API Gateway & Zipkin.
-
-This project demonstrates a **Microservices-based architecture** built using **Spring Boot**, **Spring Cloud**, and **Netflix OSS** components. It includes centralized configuration, service discovery, routing through an API gateway, and distributed tracing using Zipkin.
+This project demonstrates a **communication between different microservices** built using **Spring Boot**, **Spring Cloud**, and **Netflix OSS** components. It includes centralized configuration, service discovery, routing through an API gateway, and distributed tracing using Zipkin.
 
 ---
 
