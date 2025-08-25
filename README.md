@@ -38,7 +38,6 @@ Support Services:
 ### 1. 🔧 Config Server (`localhost:8080`)
 
 * Centralized configuration for all services.
-* Loads configuration from a Git repository.
 
 ### 2. 🌐 API Gateway
 
