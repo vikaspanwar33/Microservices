@@ -128,6 +128,4 @@ Support Services:
 
 This project is open-sourced under the MIT License. See `LICENSE` file for details.
 
----
 
-Would you like me to generate a folder structure and sample codebase for this setup?
